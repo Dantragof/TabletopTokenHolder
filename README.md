@@ -31,3 +31,7 @@ Large holder's respective dimensions are 1.75" / 22.23mm / 18.29mm / 20.08mm / 1
 # Notes
 1) Wait until covid is done until you gather for play, unless you live with people you play with.
 2) Use all standard precautions required for SLA printing, resins are toxic until they are fully cured.
+
+# License
+1) Not for commercial use
+2) For use in noncommercial projects a reference is required
