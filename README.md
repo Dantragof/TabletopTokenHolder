@@ -12,7 +12,7 @@ Because you are either:
 
 # How do I use this?
 1) You print, say, five token holders of sizes you need (as many as you will have on the table at the same time)
-2) You prepare a stack of paper portraits for all monsters you want in your game
+2) You prepare a stack of paper portraits for all monsters you want in your game (I attached a multilayered Paint.Net project file at https://github.com/Dantragof/TabletopTokenHolder/blob/master/paper%20template/example.pdn , there are cutout layers scaled for a4 borderless printing)
 3) You place whatever portraits you want into the token holders
 4) You play whatever tabletop you play
 
