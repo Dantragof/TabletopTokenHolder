@@ -26,7 +26,7 @@ Medium holder has an outer radius of 1" (12.7mm radius), and its tokens are supp
 
 Small holder's respective dimensions are 0.8" / 10.16 mm / 6.22mm / 8.01mm / 1.79mm.
 
-Large holder's respective dimensions are 1.75" / 22.23mm / 18.29mm / 20.08mm.
+Large holder's respective dimensions are 1.75" / 22.23mm / 18.29mm / 20.08mm / 1.79mm.
 
 # Notes
 1) Wait until covid is done until you gather for play, unless you live with people you play with.
