@@ -18,9 +18,9 @@ Because you are either:
 I tested all prototypes and the final token holder using Anycubic Photon S SLA printer using stock Anycubic black resin. I cannot vouch for other printers and resins, but I think most SLA printers will do. I do not know if FDM printers are capable of printing this as I do not have one and I suspect there could be problems due to print size.
 
 # Token sizes
-The holders are supposed to represent a certain tabletop game's differently sized creatures: small, medium, and large - sized ones.
+The holders are supposed to represent a certain tabletop game's differently sized creatures: small, medium, and large ones.
 
-Medium holder has an outer radius of 1" (12.7mm radius), and its tokens are supposed to have a radius 8.76mm and 10.55mm, giving a 1.79mm radial tolerance for a bad scissor technique.
+Medium holder has an outer radius of 1" (12.7mm radius), and its tokens are supposed to have a radius between 8.76mm and 10.55mm, giving a 1.79mm radial tolerance for a bad scissor technique.
 
 Small holder's respective dimensions are 0.8" / 10.16 mm / 6.22mm / 8.01mm / 1.79mm.
 
