@@ -31,7 +31,7 @@ Large holder's respective dimensions are 1.75" / 22.23mm / 18.29mm / 20.08mm / 1
 # They seem simple, what's the worth of it?
 It may take a number of iterations to design token holder that can be printed without major artifacts, feels heavy enough but is not bulky, does not disintegrate on the slightest touch and does not obscure the picture inside. And picture must slide in easily but not fall out easily. Also I'm lasy so it should be printable with minimal postprocessing, so there should be almost no supports, so go redesign this one yet again. And it should work with sloppy cutouts, so overhang should be wide enough to hold a smaller cut paper circle. Oh, it's bulky now and obscures picture in small size, do it over. Oh, the wall is now too thin, it broke during play.
 
-It took me about 30 hours total to make these (15 of them breathing resin fumes), so hopefully I can save somebody 30 hours of time and some lung capacity so they can play earlier and live longer.
+It took me about 30 hours total (15 of them breathing resin fumes) to make these, so hopefully I can save somebody 30 hours of time and some lung capacity so they can play earlier and live longer.
 
 # Notes
 1) Wait until covid is done until you gather for play, unless you live with people you play with.
